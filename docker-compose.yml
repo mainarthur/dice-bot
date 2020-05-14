@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+        redis:
+                image: redis
+        bot:
+                build: .
+                env_file:
+                        - .env
+                depends_on:
+                        - redis

@@ -8,4 +8,4 @@ RUN npm install
 
 COPY . .
 
-ENTRYPOINT bash start.sh
+ENTRYPOINT npm run start

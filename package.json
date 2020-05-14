@@ -21,7 +21,7 @@
   },
   "homepage": "https://gitlab.com/helvete666/dice-bot#readme",
   "dependencies": {
-    "dotenv": "^8.2.0",
+    "bull": "^3.14.0",
     "node-telegram-bot-api": "^0.50.0"
   }
 }
