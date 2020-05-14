@@ -33,7 +33,7 @@ bot.on('message', async (msg) => {
 			messageId: m.message_id,
 			chatId: m.chat.id
 		}, {
-			delay: 0.5*60000, // one minute
+			delay: 60000, // one minute
 			removeOnComplete: true
 		});
 
