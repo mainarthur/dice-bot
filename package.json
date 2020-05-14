@@ -1,0 +1,27 @@
+{
+  "name": "dicebot",
+  "version": "1.0.0",
+  "description": "Dice value printer Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/helvete666/dice-bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "MasterArthur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/helvete666/dice-bot/issues"
+  },
+  "homepage": "https://gitlab.com/helvete666/dice-bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
