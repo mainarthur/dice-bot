@@ -3,7 +3,7 @@ To run own DicePrint bot follow these steps:
 ```
 bash configure.sh
 ```
-And paste bot token
+And paste bot token <br />
 2) Run
 ```
 docker-compose up
