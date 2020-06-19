@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/helvete666/dice-bot.git"
+    "url": "git+https://gitlab.com/masterarthur/dice-bot.git"
   },
   "keywords": [
     "bot"
@@ -17,9 +17,9 @@
   "author": "MasterArthur",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/helvete666/dice-bot/issues"
+    "url": "https://gitlab.com/masterarthur/dice-bot/issues"
   },
-  "homepage": "https://gitlab.com/helvete666/dice-bot#readme",
+  "homepage": "https://gitlab.com/masterarthur/dice-bot#readme",
   "dependencies": {
     "bull": "^3.14.0",
     "node-telegram-bot-api": "^0.50.0"
